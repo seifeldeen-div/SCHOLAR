@@ -58,4 +58,4 @@ PROJECT TASK/
 
 ---
 
-<p>Made with <a href="https://www.linkedin.com/in/seifeldeen-div/">Eng. Seif Edeen<\a> for education<\p>
+<p align= center> Made with <a href="https://www.linkedin.com/in/seifeldeen-div/"> Eng. Seif Edeen </a> for education </p>
