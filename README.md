@@ -1,4 +1,4 @@
-# 🏫 SCHOLAR
+#  SCHOLAR
 
 A clean and responsive educational website to showcase courses, learning resources, and instructor information.
 
