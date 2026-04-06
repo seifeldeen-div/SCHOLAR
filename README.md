@@ -43,19 +43,16 @@ SCHOLAR is a front-end web application designed to present educational content i
 PROJECT TASK/
 │
 ├── css/
-│   ├── all.min.css
-│   ├── normalize.css
-│   └── style.css
+│ ├── all.min.css
+│ ├── normalize.css
+│ └── style.css
 │
-├── fonts/                   
-│
-├── img/                        
-│
+├── fonts/
+├── img/
 ├── js/
-│   └── js.js                     
-│
-└── index.html      
+│ └── js.js
+└── index.html
 
 ---
 
-<p align= center> Made with <a href="https://www.linkedin.com/in/seifeldeen-div/"> Eng. Seif Edeen </a> for education </p>
+<p align= center> Made with <a href="https://www.linkedin.com/in/seifeldeen-div/"> Eng. Seif Edeen </a> for Education </p>
